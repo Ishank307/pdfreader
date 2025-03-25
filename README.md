@@ -1,16 +1,74 @@
-# pdfreader
+#PDF Reader
 
-A new Flutter project.
+##Overview
 
-## Getting Started
+This is a simple and efficient PDF Reader built to provide users with a seamless experience while viewing PDF files. The project is designed with a user-friendly interface and smooth navigation for an enhanced reading experience.
 
-This project is a starting point for a Flutter application.
+Features
 
-A few resources to get you started if this is your first Flutter project:
+📖 Open and view PDF files
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🔍 Zoom in/out functionality
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📜 Scrollable and paginated PDF viewing
+
+⏳ Quick loading and smooth rendering
+
+Installation
+
+To run this project locally, follow these steps:
+
+Prerequisites
+
+Ensure you have Git installed on your system.
+
+Install Flutter (if this is a Flutter-based project) or necessary dependencies if it's built with another framework.
+
+##STEPS
+# Clone the repository
+git clone https://github.com/Ishank307/pdfreader.git
+
+# Navigate to the project directory
+cd pdfreader
+
+# Install dependencies (if required)
+npm install  # or `flutter pub get` for Flutter
+
+# Run the application
+npm start  # or `flutter run` for Flutter
+
+Usage
+
+Open the application.
+
+Select a PDF file to view.
+
+Navigate through the document using scroll or pagination.
+
+Utilize zoom and other interactive features as needed.
+
+Contributing
+
+Contributions are welcome! Follow these steps to contribute:
+
+Fork the repository.
+
+Create a new branch (git checkout -b feature-branch).
+
+Commit your changes (git commit -m "Added new feature").
+
+Push to your branch (git push origin feature-branch).
+
+Create a Pull Request.
+
+License
+
+This project is licensed under the MIT License.
+
+Contact
+
+If you have any questions or suggestions, feel free to reach out:
+
+GitHub: Ishank307
+
+Email: ishankkumar307@gmail.com
