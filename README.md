@@ -1,6 +1,6 @@
-#PDF Reader
+#**PDF Reader**
 
-##Overview
+##**Overview**
 
 This is a simple and efficient PDF Reader built to provide users with a seamless experience while viewing PDF files. The project is designed with a user-friendly interface and smooth navigation for an enhanced reading experience.
 
