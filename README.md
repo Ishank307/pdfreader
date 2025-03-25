@@ -1,4 +1,4 @@
-**PDF Reader**
+# **PDF Reader**
 
 # **Overview**
 
@@ -24,7 +24,7 @@ Ensure you have Git installed on your system.
 
 Install Flutter (if this is a Flutter-based project) or necessary dependencies if it's built with another framework.
 
-##STEPS
+## STEPS
 # Clone the repository
 git clone https://github.com/Ishank307/pdfreader.git
 
