@@ -24,7 +24,7 @@ Prerequisites
 
 Ensure you have Git installed on your system.
 
-Install Flutter (if this is a Flutter-based project) or necessary dependencies if it's built with another framework.
+Install Flutter or necessary dependencies if it's built with another framework.
 
 ## STEPS
 # Clone the repository
